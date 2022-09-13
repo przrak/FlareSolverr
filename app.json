@@ -1,0 +1,9 @@
+{
+  "name": "FlareSolverr On Heroku",
+  "logo": "https://github.com/FlareSolverr/FlareSolverr/resources/flaresolverr_logo.png",
+  "description": "FlareSolverr on heroku with saved config",
+  "repository": "https://github.com/FlareSolverr/FlareSolverr",
+  "keywords": ["docker", "flaresolver", "rss", "heroku", "cloudflare"],
+  "stack": "container",
+  "success_url": "/"
+}
