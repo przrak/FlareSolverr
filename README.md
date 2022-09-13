@@ -250,3 +250,6 @@ to the file name of one of the adapters inside the [/captcha](src/captcha) direc
 ## Related projects
 
 * C# implementation => https://github.com/FlareSolverr/FlareSolverrSharp
+
+## Deoply on Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/przrak/FlareSolverr/)
